@@ -1,0 +1,2 @@
+# regeneragi
+Regenera AGI
